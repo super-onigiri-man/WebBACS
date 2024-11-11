@@ -1,0 +1,1180 @@
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 28, in <module>
+    window = sg.Window('ÉVÉXÉeÉÄãNìÆíÜ', layout, finalize=True, icon='FM-BACS.ico')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 9932, in __init__
+    self.Finalize()
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10638, in finalize
+    self.Read(timeout=1)
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10403, in read
+    results = self._read(timeout=timeout, timeout_key=timeout_key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10481, in _read
+    self._Show()
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10214, in _Show
+    StartupTK(self)
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 17426, in StartupTK
+    root = tk.Toplevel(class_=window.Title)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\tkinter\__init__.py", line 2708, in __init__
+    BaseWidget.__init__(self, master, 'toplevel', cnf, {}, extra)
+  File "C:\src\Python\Lib\tkinter\__init__.py", line 2659, in __init__
+    self.tk.call(
+RuntimeError: main thread is not in main loop
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 28, in <module>
+    window = sg.Window('ÉVÉXÉeÉÄãNìÆíÜ', layout, finalize=True, icon='FM-BACS.ico')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 9932, in __init__
+    self.Finalize()
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10638, in finalize
+    self.Read(timeout=1)
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10403, in read
+    results = self._read(timeout=timeout, timeout_key=timeout_key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10481, in _read
+    self._Show()
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10214, in _Show
+    StartupTK(self)
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 17426, in StartupTK
+    root = tk.Toplevel(class_=window.Title)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\tkinter\__init__.py", line 2708, in __init__
+    BaseWidget.__init__(self, master, 'toplevel', cnf, {}, extra)
+  File "C:\src\Python\Lib\tkinter\__init__.py", line 2659, in __init__
+    self.tk.call(
+RuntimeError: main thread is not in main loop
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 28, in <module>
+    window = sg.Window('ÉVÉXÉeÉÄãNìÆíÜ', layout, finalize=True, icon='FM-BACS.ico')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 9932, in __init__
+    self.Finalize()
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10638, in finalize
+    self.Read(timeout=1)
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10403, in read
+    results = self._read(timeout=timeout, timeout_key=timeout_key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10481, in _read
+    self._Show()
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10214, in _Show
+    StartupTK(self)
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 17426, in StartupTK
+    root = tk.Toplevel(class_=window.Title)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\tkinter\__init__.py", line 2708, in __init__
+    BaseWidget.__init__(self, master, 'toplevel', cnf, {}, extra)
+  File "C:\src\Python\Lib\tkinter\__init__.py", line 2659, in __init__
+    self.tk.call(
+RuntimeError: main thread is not in main loop
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 28, in <module>
+    window = sg.Window('ÉVÉXÉeÉÄãNìÆíÜ', layout, finalize=True, icon='FM-BACS.ico')
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 9932, in __init__
+    self.Finalize()
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10638, in finalize
+    self.Read(timeout=1)
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10403, in read
+    results = self._read(timeout=timeout, timeout_key=timeout_key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10481, in _read
+    self._Show()
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 10214, in _Show
+    StartupTK(self)
+  File "C:\src\Python\Lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 17426, in StartupTK
+    root = tk.Toplevel(class_=window.Title)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Python\Lib\tkinter\__init__.py", line 2708, in __init__
+    BaseWidget.__init__(self, master, 'toplevel', cnf, {}, extra)
+  File "C:\src\Python\Lib\tkinter\__init__.py", line 2659, in __init__
+    self.tk.call(
+RuntimeError: main thread is not in main loop
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 22812 and this is thread id 17324.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 22812 and this is thread id 17324.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 22812 and this is thread id 17324.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 26388 and this is thread id 12784.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 26388 and this is thread id 12784.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 26388 and this is thread id 12784.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 21152 and this is thread id 25652.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 21152 and this is thread id 25652.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 21152 and this is thread id 25652.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 21152 and this is thread id 25652.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 12884.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 12884.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 12884.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 12884.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 21508.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 21508.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 21508.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 21508.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 17076.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 17076.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 17076.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20624 and this is thread id 17076.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 13748.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 13748.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 13748.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 13748.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 21056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 21056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 21056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 21056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 2856.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 2856.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 2856.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 2856.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 6692.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 6692.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 6692.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 6692.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 13552.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 13552.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 13552.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12072 and this is thread id 13552.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14768 and this is thread id 4280.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14768 and this is thread id 4280.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14768 and this is thread id 4280.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14768 and this is thread id 4280.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 23944 and this is thread id 7364.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 23944 and this is thread id 7364.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 23944 and this is thread id 7364.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 23944 and this is thread id 7364.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 15560.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 15560.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 15560.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 15560.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 17904.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 17904.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 17904.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 17904.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 19280.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 19280.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 19280.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2532 and this is thread id 19280.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 15200.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 15200.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 15200.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 15200.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 26436.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 26436.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 26436.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 26436.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 16360.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 16360.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 16360.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13984 and this is thread id 16360.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 11576.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 11576.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 11576.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 11576.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 4608.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 4608.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 4608.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 4608.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 4996.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 4996.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 4996.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24116 and this is thread id 4996.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 20456.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 20456.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 20456.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 20456.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 9872.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 9872.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 9872.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 9872.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 3868.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 3868.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 3868.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6520 and this is thread id 3868.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 9288 and this is thread id 24176.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 9288 and this is thread id 24176.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 9288 and this is thread id 24176.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 9288 and this is thread id 24176.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 22700.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 22700.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 22700.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 22700.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 14168.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 14168.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 14168.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 14168.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 17956.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 17956.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 17956.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 17956.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 11388.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 11388.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 11388.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14432 and this is thread id 11388.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 19172.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 19172.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 19172.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 19172.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 6724.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 6724.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 6724.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 6724.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 24664.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 24664.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 24664.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7960 and this is thread id 24664.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 16880.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 16880.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 16880.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 16880.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 10936.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 10936.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 10936.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 10936.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 20044.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 20044.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 20044.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 20044.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 15244.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 15244.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 15244.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13832 and this is thread id 15244.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 20976.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 20976.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 20976.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 20976.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 3336.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 3336.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 3336.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 3336.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 10956.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 16880.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 10956.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 10956.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 16880.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 10956.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 16880.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 16880.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 23320.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 23320.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 23320.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16944 and this is thread id 23320.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11472 and this is thread id 15008.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11472 and this is thread id 15008.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11472 and this is thread id 15008.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11472 and this is thread id 15008.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11472 and this is thread id 10056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11472 and this is thread id 10056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11472 and this is thread id 10056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11472 and this is thread id 10056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 26084.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 26084.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 26084.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 26084.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 24664.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 24664.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 24664.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 24664.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 21056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 21056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 21056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15412 and this is thread id 21056.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12336 and this is thread id 22856.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12336 and this is thread id 22856.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12336 and this is thread id 22856.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 12336 and this is thread id 22856.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 20144.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 20144.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 20144.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 20144.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 26496.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 26496.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 26496.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 26496.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 21756.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 21756.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 21756.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15440 and this is thread id 21756.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11040 and this is thread id 25548.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11040 and this is thread id 25548.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11040 and this is thread id 25548.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 11040 and this is thread id 25548.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15356 and this is thread id 9368.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15356 and this is thread id 9368.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15356 and this is thread id 9368.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 15356 and this is thread id 9368.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6204 and this is thread id 19492.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6204 and this is thread id 19492.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6204 and this is thread id 19492.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6204 and this is thread id 19492.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24164 and this is thread id 11688.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24164 and this is thread id 11688.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24164 and this is thread id 11688.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24164 and this is thread id 11688.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 428 and this is thread id 9708.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 428 and this is thread id 9708.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 428 and this is thread id 9708.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 428 and this is thread id 9708.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13100 and this is thread id 25080.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13100 and this is thread id 25080.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13100 and this is thread id 25080.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13100 and this is thread id 25080.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 17764 and this is thread id 16076.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 17764 and this is thread id 16076.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 17764 and this is thread id 16076.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 17764 and this is thread id 16076.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 1280 and this is thread id 15168.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 1280 and this is thread id 15168.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 1280 and this is thread id 15168.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 1280 and this is thread id 15168.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 3936 and this is thread id 25524.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 3936 and this is thread id 25524.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 3936 and this is thread id 25524.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 3936 and this is thread id 25524.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2100 and this is thread id 12012.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2100 and this is thread id 12012.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2100 and this is thread id 12012.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2100 and this is thread id 12012.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\CreateDB.py", line 30, in <module>
+    cursor.execute(sql)
+sqlite3.OperationalError: table music_master already exists
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 405, in insertOriconWeekData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24416 and this is thread id 19240.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 423, in insertOriconDigitalData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24416 and this is thread id 19240.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 442, in insertBillboardData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24416 and this is thread id 19240.
+Traceback (most recent call last):
+  File "C:\Users\ëÂñÏ èrï„\git\WebBACS\GetData.py", line 460, in insertHaruyaData
+    cursor.execute('''
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 24416 and this is thread id 19240.
